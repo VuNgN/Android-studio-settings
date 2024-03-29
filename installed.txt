@@ -1,0 +1,4 @@
+org.vayafulano.relativeLineNumbers
+com.markskelton.one-dark-theme
+IdeaVIM
+com.github.copilot
